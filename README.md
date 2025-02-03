@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Добро пожаловать в мой профиль!
+# NNQZEN | I See Your Tears!
 
 ![Photo Banner](https://i.imgur.com/n0INpWO.jpeg)
 
