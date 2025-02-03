@@ -2,7 +2,7 @@
 
 ## ⚡ My Biography
 
-![Photo Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4xZ3FlMHV0emVnbDJ2cGJ3bm12bjlvcXU4b3o5aDR1bTE1dmFzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0ONGFMH2KtRStH5h9E/giphy.gif)
+![Photo Banner](https://imgur.com/PzVwkmV)
 
 ### 🚀 О себе
 🔭 Работаю над **проектом X**  
