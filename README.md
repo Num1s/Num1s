@@ -20,8 +20,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Django](https://img.shields.io/badge/Django-FA7343?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-FA7343?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-4479A1?style=for-the-badge&logo=react&logoColor=white)
 
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
