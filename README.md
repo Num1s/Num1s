@@ -4,8 +4,8 @@
 
 ![Photo Banner](nnqzen.png)
 
-<div class="blocks" style="display: flex;">
-  <div class="text">
+<div class="blocks" style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <div class="text" style="flex: 1;">
     <h1>🚀 О себе</h1>
     <h4>🔭 Работаю над **проектом X** </h4> 
     <h4>🌱 Совершенствуюсь **каждый** день.  </h4>
@@ -13,7 +13,7 @@
     <h4>🔧 Опыт составляет более 2-ух лет.  </h4>
   </div>
   <div class="image">
-    <img src="killua.png" alt="Killua"/>
+    <img src="killua.png" alt="Killua" width="400px"/>
   </div>
 </div>
 
