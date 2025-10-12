@@ -4,7 +4,7 @@
 
 ![Photo Banner](nnqzen.png)
 
-<img src="killua.png" alt="Killua" width="250px" height="400px" align="right"/>
+<img src="killua.png" alt="Killua" width="170px" align="right"/>
 
 ### 🚀 О себе:
 
