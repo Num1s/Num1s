@@ -2,7 +2,7 @@
 
 ## ⚡ My Biography
 
-![Photo Banner]('nnqzen.png')
+![Photo Banner]('../nnqzen.png')
 
 ### 🚀 О себе
 🔭 Работаю над **проектом X**  
