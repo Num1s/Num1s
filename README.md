@@ -2,7 +2,7 @@
 
 ## ⚡ My Biography
 
-![Photo Banner](https://i.imgur.com/PzVwkmV.png)
+![Photo Banner]('nnqzen.png')
 
 ### 🚀 О себе
 🔭 Работаю над **проектом X**  
