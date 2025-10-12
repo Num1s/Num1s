@@ -10,7 +10,7 @@
 📦 Работал над различными проектами, как с **сложными**, так и с **простыми** 
 🔧 Опыт составляет более 2-ух лет.  
 
-<img src="killua.png" alt="Killua" width="400px" align="right"/>
+<img src="killua.png" alt="Killua" width="100px" align="right"/>
 
 ### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
