@@ -2,10 +2,10 @@
 
 ## ⚡ My Biography
 
-![Photo Banner](Frame\24.png)
+![Photo Banner](Frame/24.png)
 
-<img src="Frame\25.png" alt="Killua" width="170px" align="left"/>
-<img src="Frame\26.png" alt="Killua" width="170px" align="right"/>
+<img src="Frame/25.png" alt="Killua" width="170px" align="left"/>
+<img src="Frame/26.png" alt="Killua" width="170px" align="right"/>
 
 ### 🚀 О себе
 🔭 Работаю над **проектом X**    
